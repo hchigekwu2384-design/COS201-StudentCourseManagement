@@ -1,0 +1,9 @@
+CYB 203|Cybercrime Law and Coutermeasures|2
+COS 203|Discrete Sructures|2
+ENT 211|Entrepreneurship and Innovation|2
+CYB 201|Introduction to Cybercrime Strategy|2
+SEN 201|Introduction to Software Engineering|2
+MATH 205|Linear Algebra 1|2
+MATH 201|Mathematical method 1|2
+CYB 299|SIWES 1|3
+MIVA-CYB 207|Zero Trust Networking|2
